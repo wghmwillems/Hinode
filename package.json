@@ -46,7 +46,7 @@
     "eslint": "^9.28.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-n": "^17.18.0",
+    "eslint-plugin-n": "^17.19.0",
     "eslint-plugin-promise": "^7.2.1",
     "hugo-bin": "^0.144.7",
     "markdownlint-cli2": "^0.18.1",
