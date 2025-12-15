@@ -42,7 +42,7 @@
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@gethinode/netlify-plugin-dartsass": "^0.3.0",
     "@netlify/plugin-lighthouse": "^6.0.4",
-    "autoprefixer": "^10.4.22",
+    "autoprefixer": "^10.4.23",
     "eslint": "^9.39.2",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.32.0",
